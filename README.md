@@ -437,6 +437,9 @@ https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/023/playlist.m3
 #EXTINF:-1, group-title="NACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/324px-2020_Canal_Capital_logo.svg.png",canal capital
 http://mdstrm.com/live-stream-playlist_800/57d01d6c28b263eb73b59a5a.m3u8?
 
+EXTINF:-1, group-title="PELÍCULAS Y TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shaw_PPV.png/150px-Shaw_PPV.png", miami tv español
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+
 #EXTINF:-1, group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shaw_PPV.png/150px-Shaw_PPV.png",ppv pornstar 
 http://cdn.adultiptv.net/pornstar.m3u8
 
@@ -482,6 +485,12 @@ http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1, group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shaw_PPV.png/150px-Shaw_PPV.png",ppv russian
 http://cdn.adultiptv.net/russian.m3u8
 
+EXTINF:-1, group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shaw_PPV.png/150px-Shaw_PPV.png",ast tv
+https://www.ast.tv/stream/1/ultra.m3u8
+
+EXTINF:-1, group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shaw_PPV.png/150px-Shaw_PPV.png",ast tv 2
+https://www.ast.tv/stream/2/ultra.m3u8
+
 #EXTINF:-1, group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shaw_PPV.png/150px-Shaw_PPV.png",ppv lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
 
@@ -508,5 +517,3 @@ http://cdn.adultiptv.net/rough.m3u8
 
 #EXTINF:-1, group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shaw_PPV.png/150px-Shaw_PPV.png",ppv sólo para hombres
 http://cdn.adultiptv.net/gay.m3u8
-
-
